@@ -8,7 +8,7 @@ import javax.swing.JOptionPane;
 
 
 /**
- * @author Raina
+ * @author Akshay
  *
  */
 public class mainmenu {
