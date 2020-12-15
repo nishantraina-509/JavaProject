@@ -9,7 +9,7 @@ import java.text.DecimalFormat; // For the DecimalFormat class
 
 
 /**
- * @author user
+ * @author Akshay
  *
  */
 public class BankAccount {
