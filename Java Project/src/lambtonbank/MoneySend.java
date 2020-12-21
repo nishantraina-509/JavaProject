@@ -4,7 +4,7 @@ import java.io.IOException;
 import java.util.Scanner;
 
 /**
- * @author Raina
+ *@author nishantraina-509
  *
  */
 public class MoneySend {

@@ -3,8 +3,7 @@ package lambtonbank;
 import java.io.IOException;
 import java.util.Scanner;
 /**
- * @author Raina
- * @author 
+ * @author nishantraina-509
  *
  */
 public class initialpagecode {

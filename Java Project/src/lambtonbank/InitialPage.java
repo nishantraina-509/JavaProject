@@ -10,7 +10,7 @@ import lambtonbank.Customerdetails;
 import lambtonbank.afterlogin;
 import lambtonbank.db;
 /**
- * @author Raina
+ *@author nishantraina-509
  *
  */
 public class InitialPage {

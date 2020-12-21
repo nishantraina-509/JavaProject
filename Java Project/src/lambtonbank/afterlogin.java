@@ -5,7 +5,7 @@ import java.util.Scanner;
 import lambtonbank.Customerdetails;
 
 /**
- * @author Raina
+ * @author nishantraina-509
  *
  */
 public class afterlogin {

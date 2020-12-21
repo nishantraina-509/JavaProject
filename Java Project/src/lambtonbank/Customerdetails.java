@@ -1,6 +1,6 @@
 package lambtonbank;
 /**
- * @author Akshay
+ * @author Akshaygoswami-596
  *
  */
 import java.util.Random;
